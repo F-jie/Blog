@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 九九XL的Blog
+title: 九九の博客
 subtitle: '学习-思考-尝试'
-description: ''
+description: '计划&行动'
 keywords: keywords
-author: 九九XL
+author: fujie
 language: zh-CN
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://www.fujie.life/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
